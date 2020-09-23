@@ -97,7 +97,7 @@
     ingress-nginx-admission-patch-kz97j        0/1     Completed   0          5h21m
     ingress-nginx-controller-789d9c4dc-m2gps   1/1     Running     0          5h21m
     ```
-### Generate F]file
+### Generate file
 * Terminal
     ```bash
     kubectl create -f html-ingress.yaml
