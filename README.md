@@ -13,3 +13,4 @@
 ## [Kubernetes Cheatsheet Part 3](https://gist.github.com/musfirotus/751aebbafeb5219689c19145e7c595e7)
 * Replication Controller
 * Replica Set
+* Match Expression
