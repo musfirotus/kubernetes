@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nginx-with-annotation
+  labels:
+    team: fe
+    version: 1.4.1
+    environment: qa
+  annotations:
+    description: Ini adalah percobaan pod dengan annotation
+    something: Apapun itu yaaa...
+spec:
+  containers:
+    - name: nginx
+      image: nginx
+      ports:
+        - containerPort: 80
