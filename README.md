@@ -14,3 +14,11 @@
 * Replication Controller
 * Replica Set
 * Match Expression
+## Note
+### Kind
+* Pod
+* Namespace
+* Service
+* ReplicationController
+* ReplicaSet
+* DaemonSet
